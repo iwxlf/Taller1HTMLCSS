@@ -1,0 +1,136 @@
+/* Color del cuerpo de la página web */
+body{
+    background-color: #38002b;
+}
+
+/* Clases */
+
+
+/* MAIN CLASS */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+  }
+
+.complete {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-color: #005261;
+}
+/* PARQUE 3 */
+
+
+.div1{
+    border: 3px solid white ;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.titlepark1{
+    color:#ffffff;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.park1{
+    color: #000000;
+    margin-left: inherit;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-right: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.pic1{
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* PARQUE 2 */
+
+
+.div2{
+    border: 3px solid white ;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.titlepark2{
+    color:#ffffff;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.park2{
+    color: #000000;
+    margin-left: inherit;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-right: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.pic2{
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* PARQUE 3 */
+
+
+.div3{
+    border: 3px solid #ffffff ;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.titlepark3{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.park3{
+    color: #000000;
+    margin-left: inherit;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-right: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.pic3{
+    width: 800px;
+    height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
